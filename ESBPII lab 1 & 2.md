@@ -1,0 +1,81 @@
+#### Name - Disaanayaka D M K R 
+#### IT   - IT13004750
+#### Amazon Username - Kasun Rangajeewa
+##
+##Windows Server##
+#
+#LAB 01 #
+#
+01![](http://i.imgur.com/YJcqMIY.png)
+#
+02![](http://i.imgur.com/bRRNxf8.png)
+#
+03![](http://i.imgur.com/1DJSbH3.png)
+#
+04![](http://i.imgur.com/v202zGO.png)
+#
+04![](http://i.imgur.com/ya2C3oE.png)
+#
+06![](http://i.imgur.com/6T6u7VH.png)
+#
+07![](http://i.imgur.com/jjI37Wx.png)
+#
+08![](http://i.imgur.com/AbnGsns.png)
+#
+09![](http://i.imgur.com/XBYaXCb.png)
+#
+10![](http://i.imgur.com/fSvXZsP.png)
+#
+11![](http://i.imgur.com/i4jVMBW.png)
+#
+12![](http://i.imgur.com/k0Wa2aQ.png)
+#
+13![](http://i.imgur.com/9JoeC1O.png)
+#
+14![](http://i.imgur.com/KdMlnpi.png)
+#
+15![](http://i.imgur.com/605qQEB.png)
+#
+16![](http://i.imgur.com/b4AkFsB.png)
+#
+17![](http://i.imgur.com/04A1QWb.png)
+#
+##
+##Linux Server##
+#
+#LAB 02 #
+#
+01![](http://i.imgur.com/ND68Jue.png)
+#
+02![](http://i.imgur.com/jhemknw.png)
+#
+03![](http://i.imgur.com/KZa36GU.png)
+#
+04![](http://i.imgur.com/WzsMbTj.png)
+#
+05![0](http://i.imgur.com/UMxOhrP.png)
+#
+06![](http://i.imgur.com/dsaNuIO.png)
+#
+07![](http://i.imgur.com/iH4w5ns.png)
+#
+08![](http://i.imgur.com/FGWPhaZ.png)
+#
+09![](http://i.imgur.com/pNQFrXl.jpg)
+#
+10![](http://i.imgur.com/I13k1I7.jpg)
+#
+11![](http://i.imgur.com/LVsHQCh.jpg)
+#
+12![](http://i.imgur.com/ByoRvB1.png)
+#
+13![](http://i.imgur.com/kZB1sFZ.png)
+#
+14![](http://i.imgur.com/uBglWxd.png)
+#
+15![](http://i.imgur.com/CtHPU0o.png)
+#
+16![](http://i.imgur.com/XQDWUne.png)
+#
+17![](http://i.imgur.com/wFlpbNM.png)
+#
